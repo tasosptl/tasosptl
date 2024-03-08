@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I am a Network Engineer and my goal is to automate anything that is repetitive so that I can enjoy more of this nicely brewed ☕
+
+I am interested on anything related to Open Source, Network Automation and Network Security (do I mention the word network a lot?)
+
+
 <!--
 **tasosptl/tasosptl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
